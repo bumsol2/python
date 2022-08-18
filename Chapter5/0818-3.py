@@ -4,5 +4,5 @@ if food >= 20000:
     print("오늘저녁치킨")
 elif food >= 10000:
     print("오늘저녁떡볶이") 
-else:
+elif food >= 2000:
     print("편의점김밥")
