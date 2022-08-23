@@ -3,7 +3,7 @@ import csv
 from post import Post
 
 # 파일 경로
-file_path = "./myvenv/Chapter12/data.csv"
+file_path = "E:\python\Chapter12\data.csv"
 
 # post 객체를 저장할 리스트
 post_list = []
